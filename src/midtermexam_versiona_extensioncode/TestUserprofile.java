@@ -5,7 +5,7 @@
 package midtermexam_versiona_extensioncode;
 
 import java.util.Scanner;
-U
+
 /**
  *
  * @author Qiong Liao
